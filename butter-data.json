@@ -1,0 +1,58 @@
+{
+  "lastUpdated": "2026-02-02",
+  "prices": [
+    {
+      "store": "Kerrygold",
+      "product": "454g (1 lb) Pack",
+      "price": 4.99,
+      "locations": "SuperValu, Centra, Tesco",
+      "savings": "↓ 50c "
+    },
+    {
+      "store": "Kerrygold",
+      "product": "227g Pack",
+      "price": 2.99,
+      "locations": "SuperValu, Centra, Tesco",
+      "savings": "↓ 30c "
+    },
+    {
+      "store": "Aldi Own Brand",
+      "product": "Kilkeely 454g",
+      "price": 3.39,
+      "locations": "Aldi Ireland",
+      "savings": "↓ 60c Saved"
+    },
+    {
+      "store": "Aldi Own Brand",
+      "product": "Kilkeely 227g",
+      "price": 2.09,
+      "locations": "Aldi Ireland",
+      "savings": "↓ 30c Saved"
+    },
+    {
+      "store": "SuperValu Own",
+      "product": "Irish Creamery 454g",
+      "price": 3.39,
+      "locations": "SuperValu, Centra",
+      "savings": "↓ 60c Saved"
+    },
+    {
+      "store": "Lidl Own Brand",
+      "product": "Irish Butter 454g",
+      "price": 3.39,
+      "locations": "Lidl Ireland",
+      "savings": "↓ Price Matched"
+    }
+  ],
+  "marketUpdate": {
+    "summary": "Good news for shoppers! Irish butter prices have dropped significantly in recent weeks. Keep on Buttering!.",
+    "trend": "down",
+    "recentChanges": [
+      "Kerrygold prices cut by 9% across major retailers",
+      "Own-brand butter reduced by up to 15%",
+      "Average savings of 30-60 cents per pack",
+      "Spot market butter prices at lowest since 2021"
+    ]
+    
+  }
+}
